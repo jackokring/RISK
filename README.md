@@ -1,3 +1,7 @@
+# RISK2
+The micro architecture has evolved based on ideas relating to 24 bit designs. Here is [RISK2](https://docs.google.com/spreadsheets/d/1AcmCZS8sD0NJzHa4gkKafn4UXvgb3VhFPwx-VLz2r5c/edit?usp=sharing) planning so far. Some may think it a bit extreme, but I went for a whole byte of carry, for each register. Although only the secondary operand register carry byte is active as an added in carry for example.
+
+
 # The Odius Public Domain Origins of RISK
 A hot off `.gsheet` to `.ods` (format export allowed) of the version 1 specification of RISK.
 
